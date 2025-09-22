@@ -1,0 +1,3 @@
+@url = https://expert-goggles-g464r54g47x4hw7w5-3000.app.github.dev/
+
+GET {{url}}/api/v1?numero=7
